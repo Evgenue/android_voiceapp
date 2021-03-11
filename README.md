@@ -3,4 +3,3 @@
 Progress 50%
 
 Language: Kotlin
-Createt in Android Studio
